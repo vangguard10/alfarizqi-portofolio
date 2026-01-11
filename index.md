@@ -63,6 +63,8 @@ I don't just learn theory; I build and run systems on my own high-performance wo
 * Responsible for strategic communication and employer branding for an organization consisting of **85 active members**.
 * Directed visual documentation for major faculty events and ensured consistent information flow to students.
 * *Previous Role:* Staff of Kominfo (Oct 2023 - Sep 2024).
+* **Achievement:** Awarded as **"Staff Terbaik" (Best Staff)** for outstanding dedication and competence in the Education field during the 2023/2024 tenure.
+* 📄 [View Best Staff Award](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/WhatsApp%20Image%202026-01-11%20at%2018.17.37.jpeg)
 * 📄 [View Staff Certificate](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/Alfarizqi%20Wira%20Anadyar%20-%20Kominfo.pdf)
 
 ### 💻 HMTIF Universitas Trisakti
