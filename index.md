@@ -7,7 +7,7 @@ description: Information Systems Student | Data Analyst & Local LLM Enthusiast
 # 👋 Hello, I'm Alfarizqi Wira Anadyar
 
 **Information Systems Student @ Universitas Trisakti (GPA 3.21)**
-📍 Jakarta, Indonesia | 📧 farizanadyar@gmail.com | 🔗 [LinkedIn Kamu](https://www.linkedin.com/in/alfarizqi-wira-anadyar-b52ab9248/)
+📍 Jakarta, Indonesia | 📧 farizanadyar@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/alfarizqi-wira-anadyar-b52ab9248/)
 
 I am a final-year student passionate about bridging the gap between **Business Process** and **Technical Implementation**. Currently focusing on **Data Analytics** and **On-Premise AI Solutions**.
 
