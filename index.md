@@ -33,7 +33,7 @@ I don't just learn theory; I build and run systems on my own high-performance wo
 * **Highlights:**
     * Built a Retrieval-Augmented Generation (RAG) system to answer student queries using official campus documents.
     * Optimized inference speed on AMD GPU environment.
-    * **Achievement:** Attended "AI for Social Transformation" Seminar to validate concepts [View Certificate](#).
+    * **Achievement:** Attended "AI for Social Transformation" Seminar to validate concepts [View Certificate](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/Sertif%20LLM%20Peserta-6.pdf).
 
 ### 2. Heart Disease Prediction & Analysis
 *End-to-end data analysis project to identify health risk factors.*
@@ -41,14 +41,15 @@ I don't just learn theory; I build and run systems on my own high-performance wo
 * **Highlights:**
     * Analyzed 900+ patient records to find correlations between age, cholesterol, and heart risk.
     * Created an interactive dashboard for medical insight visualization.
-    * [Link to Dashboard/Screenshot]
+    * [Link to Dashboard/Screenshot](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/image.png)
 
-### 3. IT Quality Assurance & Web Dev (Kansha Indonesia)
-*Full-stack development for a local coffee brand.*
-* **Tech:** WordPress, WooCommerce, MySQL, Manual Testing.
+### 3. Northwind Data Warehouse (ETL Pipeline)
+*Designing a robust data warehouse for sales analytics.*
+* **Tech:** Pentaho Data Integration (Spoon), MySQL, Power BI.
 * **Highlights:**
-    * Managed product database and payment gateway integration.
-    * Conducted functional testing to ensure zero critical bugs during launch.
+    * Designed a **Star Schema** to optimize query performance for reporting.
+    * Built ETL jobs to transform raw transactional data into dimension and fact tables.
+    * [View ETL Job Flow](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/image7.png) | [View Star Schema Model](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/image2.png)
 
 ---
 
