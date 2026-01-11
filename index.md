@@ -95,9 +95,16 @@ Selected as a mentor due to high academic performance in programming courses.
 * Managed visual assets and event documentation to support the event's success.
 * 📄 [View Committee Certificate](./Bebras%20Committee%20Certificate%202024%20-%20Alfarizqi%20Wira%20Anadyar.pdf)
 
+### 💻 Certified Web Developer
+**Computer Learning Center INTERNUSA (Jul - Nov 2023)**
+* Completed an intensive "Web Design & Web Programming" course with **Grade A (Excellent)** across all modules.
+* Mastered full-stack fundamentals: **PHP, MySQL, Bootstrap, JavaScript/jQuery, and CSS**.
+* Successfully deployed a dynamic web project with database integration as a final assessment.
+* 📄 [View Certificate](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/internusa.pdf)
+
 ---
 
 ### 📫 Let's Connect!
 I am currently open for **Internship opportunities** in Data Analytics, IT Quality Assurance, or Tech Operations.
 
-[Download My Resume (PDF)] | [LinkedIn Profile]
+[Download My Resume (PDF)] | [LinkedIn Profile](https://www.linkedin.com/in/alfarizqi-wira-anadyar-b52ab9248/)
