@@ -6,7 +6,7 @@ description: Information Systems Student | Data Analyst & Local LLM Enthusiast
 
 # 👋 Hello, I'm Alfarizqi Wira Anadyar
 
-<img src="./IMG_1163.jpg" alt="Profile Photo" width="200" style="border-radius: 50%;">
+<img src="https://github.com/vangguard10/alfarizqi-portofolio/blob/main/IMG_1163.png" alt="Profile Photo" width="200" style="border-radius: 50%;">
 
 **Information Systems Student @ Universitas Trisakti (GPA 3.21)**
 📍 Jakarta, Indonesia | 📧 farizanadyar@gmail.com | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/alfarizqi-wira-anadyar-b52ab9248/)
