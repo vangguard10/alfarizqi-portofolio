@@ -105,4 +105,4 @@ Selected as a mentor due to high academic performance in programming courses.
 ### 📫 Let's Connect!
 I am currently open for **Internship opportunities** in Data Analytics, IT Quality Assurance, or Tech Operations.
 
-[Download My Resume (PDF)] | [LinkedIn Profile](https://www.linkedin.com/in/alfarizqi-wira-anadyar-b52ab9248/)
+[Download My Resume](https://github.com/vangguard10/alfarizqi-portofolio/blob/main/Alfarizqi%20Wira%20Anadyar%20(2).pdf) | [LinkedIn Profile](https://www.linkedin.com/in/alfarizqi-wira-anadyar-b52ab9248/)
