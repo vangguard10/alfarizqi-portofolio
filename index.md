@@ -64,6 +64,7 @@ Beyond technical development and data analytics, I possess a strong foundation i
 
 **Featured Creative Works:**
 This collection includes my visual documentation and content strategy work during my tenure as Head of Communication & Information at BEM FTI Trisakti, as well as creative assets from the Bebras Indonesia Challenge.
+> *Note: The files provided in this folder are not exhaustive. They are a curated selection intended to serve as a representation and provide a general overview of my creative style and technical capabilities.*
 
 [📁 View My Creative Portfolio on Google Drive](https://drive.google.com/drive/folders/1DkX26cwj0NcYbvfjpwqeEjP_kkJVHvbD?usp=sharing)
 
