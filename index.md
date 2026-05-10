@@ -53,6 +53,22 @@ I don't just learn theory; I build and run systems on my own high-performance wo
 
 ---
 
+## 🎨 Creative & Multimedia Portfolio
+
+Beyond technical development and data analytics, I possess a strong foundation in visual communication and digital content creation. I believe that presenting data and information visually is just as important as processing it.
+
+**Core Creative Skills:**
+* **Video Editing & Production:** Creating engaging event recaps, promotional videos, and organizational campaigns.
+* **Photography & Visual Documentation:** Directing and capturing high-quality visual assets for faculty events and public relations.
+* **Graphic Design:** Designing social media assets, banners, and informational content.
+
+**Featured Creative Works:**
+This collection includes my visual documentation and content strategy work during my tenure as Head of Communication & Information at BEM FTI Trisakti, as well as creative assets from the Bebras Indonesia Challenge.
+
+[📁 View My Creative Portfolio on Google Drive](https://drive.google.com/drive/folders/1DkX26cwj0NcYbvfjpwqeEjP_kkJVHvbD?usp=sharing)
+
+---
+
 ## 🤝 Organizational Experience
 
 ### 🏛️ Badan Eksekutif Mahasiswa (BEM) FTI Trisakti
